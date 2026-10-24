@@ -1,0 +1,101 @@
+account_id,first_name,last_name,signup_date,account_type,email
+ACC1000,Nimrat,Patil,2022-01-01,Current Account,nimrat.patil@gmail.com
+ACC1001,Ekaraj,Gara,2022-05-31,Savings Account,ekaraj.gara@yahoo.com
+ACC1002,Ekiya,Contractor,2022-01-01,Loan Account,ekiya.contractor@hotmail.com
+ACC1003,Christopher,Patil,2022-03-02,Loan Account,christopher.patil@outlook.com
+ACC1004,Jyoti,Issac,2022-08-29,Recurring Deposit,jyoti.issac@hotmail.com
+ACC1005,Devansh,Soman,2022-04-01,Recurring Deposit,devansh.soman@outlook.com
+ACC1006,Krishna,Gera,2022-03-02,Savings Account,krishna.gera@hotmail.com
+ACC1007,Zilmil,Sagar,2022-05-01,Fixed Deposit,zilmil.sagar@outlook.com
+ACC1008,Vritti,Swamy,2022-05-01,Recurring Deposit,vritti.swamy@outlook.com
+ACC1009,Vasana,Kari,2022-05-01,Current Account,vasana.kari@yahoo.com
+ACC1010,Idika,Sheth,2022-07-30,Current Account,idika.sheth@hotmail.com
+ACC1011,Tanvi,Rai,2022-07-30,Fixed Deposit,tanvi.rai@yahoo.com
+ACC1012,Advika,Singh,2022-03-02,Credit Card Account,advika.singh@outlook.com
+ACC1013,Hamsini,Kamdar,2022-03-02,Loan Account,hamsini.kamdar@gmail.com
+ACC1014,Matthew,Deo,2022-04-01,Recurring Deposit,matthew.deo@yahoo.com
+ACC1015,Bhanumati,Rau,2022-01-31,Fixed Deposit,bhanumati.rau@yahoo.com
+ACC1016,Zilmil,Gour,2022-09-28,Credit Card Account,zilmil.gour@gmail.com
+ACC1017,Netra,Gera,2022-09-28,Savings Account,netra.gera@yahoo.com
+ACC1018,Fiyaz,Din,2022-04-01,Savings Account,fiyaz.din@yahoo.com
+ACC1019,Odika,Kumar,2022-03-02,Loan Account,odika.kumar@outlook.com
+ACC1020,Anamika,Kakar,2022-03-02,Credit Card Account,anamika.kakar@outlook.com
+ACC1021,Zashil,Setty,2022-06-30,Fixed Deposit,zashil.setty@gmail.com
+ACC1022,Rushil,Dubey,2022-04-01,Loan Account,rushil.dubey@hotmail.com
+ACC1023,Samar,Mallick,2022-09-28,Recurring Deposit,samar.mallick@gmail.com
+ACC1024,Yuvraj,Dhar,2022-07-30,Fixed Deposit,yuvraj.dhar@gmail.com
+ACC1025,Leela,Thaker,2022-01-31,Current Account,leela.thaker@yahoo.com
+ACC1026,Anita,Pal,2022-08-29,Credit Card Account,anita.pal@hotmail.com
+ACC1027,Oeshi,Rau,2022-08-29,Recurring Deposit,oeshi.rau@gmail.com
+ACC1028,Azad,Kata,2022-09-28,Savings Account,azad.kata@outlook.com
+ACC1029,Isaiah,Gopal,2022-05-31,Loan Account,isaiah.gopal@hotmail.com
+ACC1030,Isha,Bhatt,2022-09-28,Current Account,isha.bhatt@outlook.com
+ACC1031,Samuel,Varkey,2022-04-01,Credit Card Account,samuel.varkey@hotmail.com
+ACC1032,Upma,Bhatia,2022-08-29,Fixed Deposit,upma.bhatia@hotmail.com
+ACC1033,Ryan,Munshi,2022-01-01,Loan Account,ryan.munshi@outlook.com
+ACC1034,Reyansh,Gour,2022-07-30,Recurring Deposit,reyansh.gour@gmail.com
+ACC1035,Jagvi,Sethi,2022-05-01,Savings Account,jagvi.sethi@gmail.com
+ACC1036,Ladli,Shanker,2022-03-02,Fixed Deposit,ladli.shanker@outlook.com
+ACC1037,Vincent,Muni,2022-01-31,Recurring Deposit,vincent.muni@gmail.com
+ACC1038,Nimrat,Narayan,2022-09-28,Current Account,nimrat.narayan@yahoo.com
+ACC1039,Zayyan,Suresh,2022-05-01,Loan Account,zayyan.suresh@outlook.com
+ACC1040,Guneet,Ravel,2022-04-01,Current Account,guneet.ravel@yahoo.com
+ACC1041,Parth,Luthra,2022-08-29,Credit Card Account,parth.luthra@outlook.com
+ACC1042,Ranveer,Karnik,2022-09-28,Current Account,ranveer.karnik@gmail.com
+ACC1043,Daksh,Rajagopal,2022-05-01,Current Account,daksh.rajagopal@hotmail.com
+ACC1044,Yamini,Loke,2022-04-01,Savings Account,yamini.loke@outlook.com
+ACC1045,Abha,Mohanty,2022-04-01,Fixed Deposit,abha.mohanty@outlook.com
+ACC1046,Indali,Kalla,2022-01-31,Credit Card Account,indali.kalla@yahoo.com
+ACC1047,Zilmil,Nagy,2022-03-02,Recurring Deposit,zilmil.nagy@yahoo.com
+ACC1048,Barkha,Ahluwalia,2022-05-31,Current Account,barkha.ahluwalia@gmail.com
+ACC1049,Rajata,Wadhwa,2022-08-29,Current Account,rajata.wadhwa@hotmail.com
+ACC1050,Janani,Gulati,2022-08-29,Loan Account,janani.gulati@outlook.com
+ACC1051,Divya,Gaba,2022-08-29,Fixed Deposit,divya.gaba@outlook.com
+ACC1052,Raghav,Modi,2022-04-01,Loan Account,raghav.modi@hotmail.com
+ACC1053,Zehaan,Das,2022-04-01,Loan Account,zehaan.das@gmail.com
+ACC1054,Mitali,Peri,2022-03-02,Savings Account,mitali.peri@gmail.com
+ACC1055,Gaurang,Pillai,2022-01-01,Current Account,gaurang.pillai@gmail.com
+ACC1056,Omaja,Hans,2022-01-01,Recurring Deposit,omaja.hans@yahoo.com
+ACC1057,Dalbir,Doctor,2022-05-01,Current Account,dalbir.doctor@gmail.com
+ACC1058,Maanav,Dua,2022-01-31,Current Account,maanav.dua@gmail.com
+ACC1059,Januja,Mutti,2022-01-31,Fixed Deposit,januja.mutti@gmail.com
+ACC1060,Bhavini,Kapadia,2022-06-30,Recurring Deposit,bhavini.kapadia@outlook.com
+ACC1061,Nikita,Thaker,2022-05-01,Savings Account,nikita.thaker@hotmail.com
+ACC1062,Chanakya,Chopra,2022-03-02,Fixed Deposit,chanakya.chopra@outlook.com
+ACC1063,Fiyaz,Iyer,2022-06-30,Recurring Deposit,fiyaz.iyer@gmail.com
+ACC1064,Teerth,Lanka,2022-05-01,Current Account,teerth.lanka@hotmail.com
+ACC1065,Adya,Minhas,2022-08-29,Loan Account,adya.minhas@gmail.com
+ACC1066,Indali,Murthy,2022-08-29,Loan Account,indali.murthy@yahoo.com
+ACC1067,Megha,De,2022-05-01,Loan Account,megha.de@hotmail.com
+ACC1068,Hemang,Mitter,2022-06-30,Fixed Deposit,hemang.mitter@gmail.com
+ACC1069,Oviya,Kumer,2022-09-28,Current Account,oviya.kumer@gmail.com
+ACC1070,Jairaj,Shetty,2022-09-28,Current Account,jairaj.shetty@hotmail.com
+ACC1071,Yauvani,Korpal,2022-06-30,Fixed Deposit,yauvani.korpal@hotmail.com
+ACC1072,Ayaan,Seth,2022-07-30,Fixed Deposit,ayaan.seth@gmail.com
+ACC1073,Varsha,Choudhary,2022-06-30,Current Account,varsha.choudhary@hotmail.com
+ACC1074,Hamsini,Doshi,2022-05-01,Current Account,hamsini.doshi@hotmail.com
+ACC1075,Gaurika,Iyer,2022-07-30,Loan Account,gaurika.iyer@yahoo.com
+ACC1076,Vanya,Naidu,2022-05-31,Savings Account,vanya.naidu@yahoo.com
+ACC1077,Orinder,Rastogi,2022-05-01,Current Account,orinder.rastogi@outlook.com
+ACC1078,Viraj,Behl,2022-09-28,Loan Account,viraj.behl@outlook.com
+ACC1079,Eshana,Srinivasan,2022-05-01,Savings Account,eshana.srinivasan@yahoo.com
+ACC1080,Netra,Hayre,2022-04-01,Recurring Deposit,netra.hayre@gmail.com
+ACC1081,Jhalak,Lalla,2022-01-31,Savings Account,jhalak.lalla@hotmail.com
+ACC1082,Netra,Magar,2022-08-29,Savings Account,netra.magar@hotmail.com
+ACC1083,Jairaj,Soni,2022-09-28,Credit Card Account,jairaj.soni@yahoo.com
+ACC1084,Ekapad,Char,2022-08-29,Recurring Deposit,ekapad.char@outlook.com
+ACC1085,Frado,Oak,2022-05-31,Fixed Deposit,frado.oak@hotmail.com
+ACC1086,Harshil,Din,2022-01-31,Recurring Deposit,harshil.din@yahoo.com
+ACC1087,Ranbir,Nagarajan,2022-03-02,Savings Account,ranbir.nagarajan@gmail.com
+ACC1088,Watika,Balay,2022-05-31,Credit Card Account,watika.balay@outlook.com
+ACC1089,Ekansh,Kothari,2022-08-29,Savings Account,ekansh.kothari@yahoo.com
+ACC1090,Yauvani,Pandya,2022-01-01,Loan Account,yauvani.pandya@hotmail.com
+ACC1091,Balendra,Kalita,2022-01-01,Recurring Deposit,balendra.kalita@hotmail.com
+ACC1092,Nilima,Mani,2022-01-31,Credit Card Account,nilima.mani@hotmail.com
+ACC1093,Rushil,Lata,2022-07-30,Credit Card Account,rushil.lata@yahoo.com
+ACC1094,Mason,Srinivasan,2022-06-30,Current Account,mason.srinivasan@outlook.com
+ACC1095,Avi,Nagarajan,2022-03-02,Credit Card Account,avi.nagarajan@yahoo.com
+ACC1096,Falan,Wason,2022-07-30,Savings Account,falan.wason@hotmail.com
+ACC1097,Turvi,Sangha,2022-05-01,Loan Account,turvi.sangha@outlook.com
+ACC1098,Warda,Edwin,2022-05-01,Savings Account,warda.edwin@yahoo.com
+ACC1099,Vaishnavi,Vig,2022-05-31,Loan Account,vaishnavi.vig@outlook.com

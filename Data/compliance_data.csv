@@ -1,0 +1,101 @@
+compliance_id,transaction_id,compliance_check,status
+COMP7000,TXN10031,No Issues,Failed
+COMP7001,TXN10042,Sanction List Matched,Failed
+COMP7002,TXN10067,High-Risk Country Alert,Failed
+COMP7003,TXN10030,Mismatched Beneficiary Info,Passed
+COMP7004,TXN10029,Multiple Failed Logins,Failed
+COMP7005,TXN10025,Unusual Transaction Pattern,Failed
+COMP7006,TXN10093,Unusual Transaction Pattern,Failed
+COMP7007,TXN10033,Mismatched Beneficiary Info,Failed
+COMP7008,TXN10070,Unusual Transaction Pattern,Passed
+COMP7009,TXN10001,AML Flagged,Failed
+COMP7010,TXN10011,No Issues,Failed
+COMP7011,TXN10037,High-Risk Country Alert,Failed
+COMP7012,TXN10002,Unusual Transaction Pattern,Failed
+COMP7013,TXN10050,Excessive Cash Deposits,Passed
+COMP7014,TXN10056,PEP Involvement,Failed
+COMP7015,TXN10070,No Issues,Failed
+COMP7016,TXN10046,Excessive Cash Deposits,Failed
+COMP7017,TXN10010,AML Flagged,Passed
+COMP7018,TXN10008,Sanction List Matched,Passed
+COMP7019,TXN10050,Multiple Failed Logins,Passed
+COMP7020,TXN10035,Sanction List Matched,Passed
+COMP7021,TXN10084,Excessive Cash Deposits,Passed
+COMP7022,TXN10019,Mismatched Beneficiary Info,Failed
+COMP7023,TXN10026,Mismatched Beneficiary Info,Passed
+COMP7024,TXN10050,Sanction List Matched,Passed
+COMP7025,TXN10090,High-Risk Country Alert,Passed
+COMP7026,TXN10073,No Issues,Passed
+COMP7027,TXN10041,Multiple Failed Logins,Passed
+COMP7028,TXN10051,PEP Involvement,Passed
+COMP7029,TXN10037,High-Risk Country Alert,Passed
+COMP7030,TXN10088,KYC Verified,Passed
+COMP7031,TXN10066,AML Flagged,Passed
+COMP7032,TXN10005,PEP Involvement,Passed
+COMP7033,TXN10094,No Issues,Failed
+COMP7034,TXN10004,No Issues,Passed
+COMP7035,TXN10073,High-Risk Country Alert,Failed
+COMP7036,TXN10044,Sanction List Matched,Failed
+COMP7037,TXN10082,Multiple Failed Logins,Passed
+COMP7038,TXN10087,AML Flagged,Failed
+COMP7039,TXN10010,Unusual Transaction Pattern,Passed
+COMP7040,TXN10051,Sanction List Matched,Failed
+COMP7041,TXN10073,PEP Involvement,Passed
+COMP7042,TXN10016,PEP Involvement,Failed
+COMP7043,TXN10095,AML Flagged,Failed
+COMP7044,TXN10071,Multiple Failed Logins,Passed
+COMP7045,TXN10049,KYC Verified,Passed
+COMP7046,TXN10037,Sanction List Matched,Failed
+COMP7047,TXN10046,PEP Involvement,Failed
+COMP7048,TXN10053,Unusual Transaction Pattern,Failed
+COMP7049,TXN10031,AML Flagged,Failed
+COMP7050,TXN10013,No Issues,Passed
+COMP7051,TXN10003,Sanction List Matched,Failed
+COMP7052,TXN10042,Sanction List Matched,Passed
+COMP7053,TXN10085,PEP Involvement,Failed
+COMP7054,TXN10080,Sanction List Matched,Passed
+COMP7055,TXN10094,Sanction List Matched,Passed
+COMP7056,TXN10097,Unusual Transaction Pattern,Passed
+COMP7057,TXN10009,Excessive Cash Deposits,Passed
+COMP7058,TXN10012,PEP Involvement,Passed
+COMP7059,TXN10026,PEP Involvement,Failed
+COMP7060,TXN10047,Excessive Cash Deposits,Passed
+COMP7061,TXN10052,KYC Verified,Passed
+COMP7062,TXN10063,PEP Involvement,Passed
+COMP7063,TXN10027,PEP Involvement,Failed
+COMP7064,TXN10070,Excessive Cash Deposits,Passed
+COMP7065,TXN10067,Excessive Cash Deposits,Passed
+COMP7066,TXN10012,Excessive Cash Deposits,Passed
+COMP7067,TXN10082,No Issues,Failed
+COMP7068,TXN10090,No Issues,Failed
+COMP7069,TXN10049,Excessive Cash Deposits,Failed
+COMP7070,TXN10050,AML Flagged,Failed
+COMP7071,TXN10029,Mismatched Beneficiary Info,Passed
+COMP7072,TXN10040,High-Risk Country Alert,Passed
+COMP7073,TXN10074,Mismatched Beneficiary Info,Failed
+COMP7074,TXN10067,Unusual Transaction Pattern,Passed
+COMP7075,TXN10025,Unusual Transaction Pattern,Failed
+COMP7076,TXN10050,High-Risk Country Alert,Failed
+COMP7077,TXN10010,AML Flagged,Passed
+COMP7078,TXN10024,No Issues,Failed
+COMP7079,TXN10058,Unusual Transaction Pattern,Failed
+COMP7080,TXN10071,Sanction List Matched,Passed
+COMP7081,TXN10056,Mismatched Beneficiary Info,Failed
+COMP7082,TXN10048,Excessive Cash Deposits,Failed
+COMP7083,TXN10069,Excessive Cash Deposits,Passed
+COMP7084,TXN10018,Sanction List Matched,Passed
+COMP7085,TXN10037,High-Risk Country Alert,Failed
+COMP7086,TXN10079,Excessive Cash Deposits,Passed
+COMP7087,TXN10013,High-Risk Country Alert,Failed
+COMP7088,TXN10058,Sanction List Matched,Failed
+COMP7089,TXN10002,PEP Involvement,Failed
+COMP7090,TXN10062,Sanction List Matched,Failed
+COMP7091,TXN10043,High-Risk Country Alert,Passed
+COMP7092,TXN10082,Multiple Failed Logins,Failed
+COMP7093,TXN10058,Multiple Failed Logins,Passed
+COMP7094,TXN10039,PEP Involvement,Failed
+COMP7095,TXN10009,High-Risk Country Alert,Passed
+COMP7096,TXN10083,Sanction List Matched,Passed
+COMP7097,TXN10053,KYC Verified,Failed
+COMP7098,TXN10010,KYC Verified,Failed
+COMP7099,TXN10093,Sanction List Matched,Failed

@@ -1,0 +1,101 @@
+merchant_id,merchant_name,category,risk_rating
+MER2000,Sandal PLC,E-commerce,0.82
+MER2001,"Kanda, Chaudry and Mammen",Entertainment,0.85
+MER2002,"Gupta, Grover and Bora",Pharmacy,0.81
+MER2003,"Barman, Lad and Palan",E-commerce,0.75
+MER2004,"Sagar, Basu and Kanda",E-commerce,0.36
+MER2005,Kar Ltd,Automotive,0.96
+MER2006,"Prasad, Buch and Natt",Retail,0.99
+MER2007,Seshadri-Pai,Transport,0.88
+MER2008,Hora Ltd,Healthcare,0.26
+MER2009,Mangal and Sons,Entertainment,0.63
+MER2010,Dugar-Koshy,Healthcare,0.44
+MER2011,Kohli-Kala,Healthcare,0.88
+MER2012,"Sahni, Bumb and Soni",Transport,0.75
+MER2013,Agate and Sons,Retail,0.69
+MER2014,Sarma-Sandhu,Transport,0.52
+MER2015,"Varghese, Contractor and Soni",E-commerce,0.4
+MER2016,"Chana, Garg and Mangal",Food,0.67
+MER2017,"Modi, Pandya and Bhatt",Education,0.96
+MER2018,"Banerjee, Wadhwa and Shere",Entertainment,0.23
+MER2019,Taneja-Pathak,Entertainment,0.53
+MER2020,"Balay, Mukherjee and Saini",Fashion,0.79
+MER2021,Pillai-Ramachandran,Transport,0.93
+MER2022,Doctor-Pradhan,Fashion,0.54
+MER2023,"Sehgal, Kale and Venkatesh",Entertainment,0.49
+MER2024,"Bakshi, Oza and Dugal",Pharmacy,0.32
+MER2025,Kanda-Seth,Entertainment,0.79
+MER2026,Deol Inc,E-commerce,0.31
+MER2027,Wable LLC,Electronics,0.64
+MER2028,Barman PLC,Automotive,0.2
+MER2029,Bhalla and Sons,Hospitality,0.86
+MER2030,"Kaur, Sane and Das",E-commerce,0.78
+MER2031,Baria-Yadav,Finance,0.44
+MER2032,Divan-Ben,Education,0.13
+MER2033,Sathe-Swaminathan,Entertainment,0.87
+MER2034,Kaur and Sons,Education,0.91
+MER2035,Setty Ltd,Food,0.84
+MER2036,"Guha, Gour and Kannan",Food,0.91
+MER2037,Ranganathan-Babu,E-commerce,0.91
+MER2038,Toor LLC,Food,0.21
+MER2039,Ganesh-Bhasin,Hospitality,0.63
+MER2040,"Nori, Pandit and Misra",Automotive,0.75
+MER2041,Shenoy-Kibe,Automotive,0.63
+MER2042,"Dugar, Krish and Sodhi",Pharmacy,0.68
+MER2043,Pant-Srivastava,Automotive,0.56
+MER2044,Shan and Sons,Fashion,0.73
+MER2045,Wali and Sons,Healthcare,0.3
+MER2046,Sarna-Kala,Finance,0.77
+MER2047,Joshi Group,Finance,0.47
+MER2048,"Kale, Rana and Jani",Food,0.13
+MER2049,Sant PLC,Transport,0.46
+MER2050,"Ramaswamy, Konda and Gole",Pharmacy,0.85
+MER2051,"Singhal, Pingle and Keer",Entertainment,0.41
+MER2052,Prabhu-Maharaj,Automotive,0.79
+MER2053,"Merchant, Bhargava and Baral",Pharmacy,0.38
+MER2054,"Bhargava, Sabharwal and Shukla",Electronics,0.45
+MER2055,"Setty, Patel and Kibe",Food,0.1
+MER2056,"Atwal, Khosla and Rajagopalan",Retail,0.31
+MER2057,Bhatti-Gala,Finance,0.68
+MER2058,Gara-Trivedi,Transport,0.38
+MER2059,Chowdhury-Apte,E-commerce,0.16
+MER2060,Saha-Vig,Finance,0.86
+MER2061,Bassi PLC,Hospitality,0.75
+MER2062,Tak-Chaudhry,Transport,0.39
+MER2063,Kulkarni-Patil,Finance,0.43
+MER2064,Narain-Srinivasan,Transport,0.57
+MER2065,Trivedi Group,Electronics,0.95
+MER2066,"Venkatesh, Dugar and Kamdar",Entertainment,0.83
+MER2067,Kumer PLC,Education,0.71
+MER2068,De-Subramanian,Food,0.16
+MER2069,Mital-Goswami,Fashion,0.48
+MER2070,Ratta Group,E-commerce,0.49
+MER2071,"Om, Gulati and Saxena",Finance,0.17
+MER2072,Kala LLC,Food,0.78
+MER2073,Halder-Dey,Electronics,0.79
+MER2074,Ghosh LLC,Retail,0.7
+MER2075,Kari-Kurian,E-commerce,0.23
+MER2076,"Bahri, Kaul and Rao",Education,0.44
+MER2077,"Chaudhari, Vala and Varghese",Fashion,0.35
+MER2078,Deol-Dewan,Entertainment,0.63
+MER2079,Bhakta-Kibe,Transport,0.38
+MER2080,Vaidya Group,Education,0.18
+MER2081,"Dash, Dhaliwal and Mani",Entertainment,0.43
+MER2082,"Roy, Pillai and Bandi",Electronics,0.59
+MER2083,Chana-Bose,Finance,0.67
+MER2084,Ranganathan-Kamdar,E-commerce,0.37
+MER2085,Sarraf-Sane,Automotive,0.35
+MER2086,"Halder, Garg and Sen",Education,0.18
+MER2087,Kumar Ltd,Automotive,0.6
+MER2088,"Varughese, Narasimhan and Pandey",Automotive,0.11
+MER2089,Maharaj Inc,Fashion,0.63
+MER2090,Bora-Dayal,Electronics,0.22
+MER2091,Agate Ltd,Finance,0.77
+MER2092,Bassi-Nagar,Hospitality,0.84
+MER2093,Dugar-Pathak,Education,0.45
+MER2094,Borde-Bhatt,Healthcare,0.74
+MER2095,"Sant, Mitter and Kant",Education,0.65
+MER2096,Barad-Mital,Automotive,0.42
+MER2097,Raj-Pau,Food,0.76
+MER2098,Doshi and Sons,Hospitality,0.83
+MER2099,Butala PLC,Healthcare,0.39
